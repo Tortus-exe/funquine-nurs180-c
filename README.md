@@ -12,7 +12,7 @@ If you are unsure, please try the program at https://www.tutorialspoint.com/linu
 
 In the terminal at the website, please copy and paste the following:
 ```
-git clone git@github.com:Tortus-exe/funquine-nurs180-c.git; cd funquine-nurs-180-c; make
+git clone https://github.com/Tortus-exe/funquine-nurs180-c.git; cd funquine-nurs-180-c; make
 ```
 
 then, when you wish to run the program, please type:
